@@ -1,0 +1,1 @@
+#define GameMode "NSRP v1.0"
