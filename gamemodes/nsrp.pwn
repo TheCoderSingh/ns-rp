@@ -25,7 +25,7 @@
 #include <zcmd>
 
 // ------------------------------------------Defines-----------------------------------------
-#define GameMode "NSRP v1.0"
+#define GameMode "NSRP v1.0beta"
 
 #define ACCOUNT_PATH "accounts/"
 #define DEALERSHIP_PATH "dealerships/"
@@ -34,11 +34,11 @@
 #define COL_WHITE "{FFFFFF}"
 #define COL_RED "{AA3333}"
 
-#define Spawn_X 1685.6904 // Default spawn coordinates (LS International)
+#define Spawn_X 1686.6904 // Default spawn coordinates (LS International)
 #define Spawn_Y -2240.9397
 #define Spawn_Z 13.5469
 
-#define MAX_DEALERSHIPS 10
+#define MAX_DEALERSHIPS 20
 
 #define MAX_PLAYER_VEHICLES 4
 #define MAX_PLAYER_VIP_VEHICLES 8
